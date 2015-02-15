@@ -1,0 +1,11 @@
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\bin\Debug\DataBaseClient.exe.config
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\bin\Debug\DataBaseClient.exe
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\bin\Debug\DataBaseClient.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.csproj.GenerateResource.Cache
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.exe
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.Queries.resources
+C:\Users\dkohland\Google Drive\STUDIA\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.csprojResolveAssemblyReference.cache
+F:\STUDIA\IX semestr\Bazy danych\DataBaseClient\DataBaseClient\bin\Debug\DataBaseClient.exe.config
+F:\STUDIA\IX semestr\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.exe
+F:\STUDIA\IX semestr\Bazy danych\DataBaseClient\DataBaseClient\obj\x86\Debug\DataBaseClient.pdb
